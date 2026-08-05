@@ -1,4 +1,4 @@
-# PORTFOLIO_VKJ
+# PORTFOLIO
 This is a  portfolio website created using html ,css and javascript.
 
 //HTML CODE
@@ -7,7 +7,7 @@ This is a  portfolio website created using html ,css and javascript.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VARSHA _developer portfolio</title>
+    <title>SHIVANSHU _developer portfolio</title>
     <link rel="stylesheet" href="style1.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -147,7 +147,7 @@ This is a  portfolio website created using html ,css and javascript.
 <body>
     <header>
         <nav>
-            <div class="left">Varsha's portfolio</div>
+            <div class="left">SHIVANSHU's portfolio</div>
             <div class="right">
                 <ul id="sidemenu">
                     <li><a href="#home">Home</a></li>                    
@@ -164,7 +164,7 @@ This is a  portfolio website created using html ,css and javascript.
     <main>
         <section class="firstSection">
             <div class="leftSection">
-                Hi, My name is <span class="purple">Varsha kumari</span> 
+                Hi, My name is <span class="purple">SHIVANSHU kumari</span> 
                 <div>and I am a passionate</div>
                
                 <span id="element"></span>
@@ -287,7 +287,7 @@ This is a  portfolio website created using html ,css and javascript.
                     <h3>Temperature Converter Web Application</h3><br />
                     <p>A temperature converter helps in the conversion of the measurement units of the temperature
                         recorded in a particular unit.</p>
-                    <a href="https://github.com/Varshajha5/TEMPERATUREconverter"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    <a href="https://github.com/SHIVANSHUjha5/TEMPERATUREconverter"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
             </div>
             <div class="work">
@@ -296,7 +296,7 @@ This is a  portfolio website created using html ,css and javascript.
                 <div class="layer">
                     <h3>TIC TAC TOE game web application</h3><br />
                     <p>TIC-TAC-TOE is a game in which two players take turns in drawing either an 'O' or an 'X' in one square of a grid consisting of nine squares.</p>
-                    <a href="https://github.com/Varshajha5/TIC_TAC_TOE_GAME/tree/main"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    <a href="https://github.com/SHIVANSHUjha5/TIC_TAC_TOE_GAME/tree/main"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
             </div>
             <div class="work">
@@ -304,12 +304,12 @@ This is a  portfolio website created using html ,css and javascript.
                 <div class="layer">
                     <h3>SIMPLE CALCULATOR Web Application</h3><br/>
                     <p>Calculator Web Application is the application used for performing basic mathematical operations like Addition,Subtraction,Multiplication & Divisions.</p>
-                    <a href="https://github.com/Varshajha5/SIMPLECALCULATOR"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    <a href="https://github.com/SHIVANSHUjha5/SIMPLECALCULATOR"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
             </div>
 
         </div>
-        <a href="https://github.com/Varshajha5" class="btn">See more</a>
+        <a href="https://github.com/SHIVANSHUjha5" class="btn">See more</a>
 
     </div>
 </div>
@@ -320,7 +320,7 @@ This is a  portfolio website created using html ,css and javascript.
             <!-- for left column -->
             <div class="contact-left">
                 <h1 class="sub-titles">Contact Me</h1>
-                <p><i class="fa-solid fa-paper-plane"></i>jhavarsha482@gmail.com</p>
+                <p><i class="fa-solid fa-paper-plane"></i>jhaSHIVANSHU482@gmail.com</p>
                 <p><i class="fa-solid fa-phone"></i></p>
               
                 
@@ -343,7 +343,7 @@ This is a  portfolio website created using html ,css and javascript.
 
     </div>
     <div class="copy-right">
-        <p>Copyright @ Varsha 2023.</p>
+        <p>Copyright @ SHIVANSHU 2023.</p>
     </div>
 </div>
 
